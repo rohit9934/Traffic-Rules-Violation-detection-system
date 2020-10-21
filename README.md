@@ -19,4 +19,5 @@ I have done detection of traffic violations in real time using our owned trained
 * Run all_vehicles.py
 
 # Our Results
- To see, the results. open **video.mp4**
+ To see, the results. open **video.mp4** 
+ ![DEMO](https://user-images.githubusercontent.com/13655812/96711369-12ca6c00-13bb-11eb-8ac9-4670c5206dfa.gif)
