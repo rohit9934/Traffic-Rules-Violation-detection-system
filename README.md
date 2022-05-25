@@ -1,5 +1,5 @@
 ### Disclaimer:
-This project was created by [Rohit Sharma](https://github.com/rohit9934/) as the final year project for bachelors course. I thouroughly enjoyed working on these projects and training the dataset for helmet detection.
+This project was created by [Rohit Sharma](https://github.com/rohit9934/) and [Parush Gupta](https://github.com/parushgupta1/)  as the final year project for bachelors course. I thouroughly enjoyed working on these projects and training the dataset for helmet detection.
 
 # Traffic Rules Violation Detection System
 The number of vehicles has increased drastically in the last few decades making it difficult to monitor each and every vehicle for traffic management and law enforcement purposes. We proposed a computer vision-based solution using deep learning that automatically detects traffic violators.
